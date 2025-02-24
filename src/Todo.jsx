@@ -6,8 +6,10 @@ export const Todo = () => {
     const [todos, setTodos] = useState([]);
     const [error, setError] = useState("");
     const [message, setMessage] = useState("");
+    const apiUrl = "https://backend-todoapp-68h5.onrender.com";
 
-    const apiUrl = "http://localhost:3000";
+
+    // const apiUrl = "http://localhost:3000";
 
     //  Fetch all todos when the component loads
     useEffect(() => {
