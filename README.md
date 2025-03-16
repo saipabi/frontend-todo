@@ -1,9 +1,11 @@
 ✅ MERN To-Do Application
 
 📌 Project Overview
+
 The MERN To-Do Application is a full-stack task management app built using MongoDB, Express.js, React, and Node.js. It allows users to create, update, delete, and track their tasks efficiently.
 
 🚀 Features
+
 Add, Edit, and Delete Tasks
 Mark Tasks as Completed or Pending
 Real-time Task List Updates
@@ -13,17 +15,20 @@ RESTful API for CRUD operations
 🛠️ Tech Stack
 
 Frontend:
+
 React.js (with Hooks & Context API for state management)
 Bootstrap (for styling)
 React Router (for navigation)
 Axios (for API calls)
 
 Backend:
+
 Node.js & Express.js (REST API)
 MongoDB & Mongoose (Database)
 CORS (to handle cross-origin requests)
 
 🔧 Installation & Setup
+
 1️⃣ Clone the Repository
 
 sh
@@ -31,12 +36,14 @@ Copy
 Edit
 git clone https://github.com/saipabi/frontend-todo.git  
 cd frontend-todo  
+
 2️⃣ Install Dependencies
 
 sh
 Copy
 Edit
 npm install  
+
 3️⃣ Run the Development Server
 
 sh
@@ -61,6 +68,7 @@ The backend will be running at http://localhost:5000
 🌍 Live Demo
 
 🔗 Frontend: https://mern-todo-app-com.netlify.app/
+
 🔗 Backend API: https://backend-todoapp-68h5.onrender.com/
 
 
@@ -69,6 +77,7 @@ The backend will be running at http://localhost:5000
 👤 Suriya R
 
 📧 Email: saipabi123@gmail.com
+
 🔗 GitHub: https://github.com/saipabi
 
 
